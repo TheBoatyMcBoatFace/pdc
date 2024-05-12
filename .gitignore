@@ -1,0 +1,8 @@
+.DS_Store
+.dolt
+.env
+.doltcfg
+
+
+# Temp
+data/
